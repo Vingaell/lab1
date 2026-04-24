@@ -1,0 +1,6 @@
+
+train: D:/python/II/dataset/images/train
+val: D:/python/II/dataset/images/val
+
+names:
+  0: car
